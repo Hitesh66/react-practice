@@ -5,7 +5,7 @@ const styleCard = {
   };
   
   const RestaurantCard = (props) => {
-    console.log(props);
+    //console.log(props);
     return (
       <div className='m-4 p-4 w-[200px]' style={styleCard}>
         <img
